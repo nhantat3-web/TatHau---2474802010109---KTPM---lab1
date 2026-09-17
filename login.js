@@ -1,5 +1,5 @@
 function login(username, password) {
-    return user === "admin" && pass === "1234";
+    return user === "admin" && pass === "123";
 }
 
 // Chỉ xử lý form khi chạy trên trình duyệt

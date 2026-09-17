@@ -1,0 +1,15 @@
+{
+  "name": "lab1-ktpm-tattrunghau",
+  "version": "1.0.0",
+  "description": "Unit Test login bằng Jest",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
